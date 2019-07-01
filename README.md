@@ -1,2 +1,3 @@
-# stage-tic-tac-toe
-tic-tac-toe game for staging day 
+# tic-tac-toe
+
+> Career week, day 2
