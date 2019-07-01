@@ -1,8 +1,12 @@
-const React = require('react');
+import React from 'react';
 
-class App extends React.Component() {
+class App extends React.Component {
   constructor() {
     super();
+
+    this.state = {
+      board: {}
+    };
   }
 
   render() {
