@@ -1,8 +1,6 @@
-const React = require('react');
-const ReactDOM = require('react-dom');
-const path = require('path');
-
-const App = require('./components/App');
+import React from 'react';
+import ReactDOM from 'react-dom';
+import App from './components/App';
 
 
 
